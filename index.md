@@ -11,7 +11,7 @@ tags: home
 
 <br>
 
-I can usually be found in a programming IDE or reading.
+I can usually be found in a programming IDE or reading. <br> 
 I'm bullish on, and a big booster of:
 
 - Insert Text
