@@ -3,11 +3,11 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+# Hi, <br/> I'm Uzonna Alexander.
 
-### I'm a software engineer with a focus on data & platform engineering.
+### I'm a Computer Science graduate with a strong foundation in software development and database management.
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
+### My academic projects have significantly enhanced my proficiency in C++, Java, and database management with PostgreSQL.
 
 <br>
 
