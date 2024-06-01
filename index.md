@@ -11,7 +11,7 @@ tags: home
 
 <br>
 
-Insert Text
+Insert Text.
 Insert Text:
 
 - Insert Text
