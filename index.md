@@ -11,8 +11,8 @@ tags: home
 
 <br>
 
-Insert Text.
-Insert Text:
+I can usually be found in a programming IDE or reading.
+I'm bullish on, and a big booster of:
 
 - Insert Text
 - Insert Text
